@@ -11,8 +11,8 @@ The goal is to be able to:
 * Summarize the advantages and disadvantages of the REST architecture.
 * Create a working RESTful API using Express.
 Create structured data for the API.
-    Create and organize API routes.
-    Create custom middleware.
-    Use third-party middleware.
+        Create and organize API routes.
+        Create custom middleware.
+        Use third-party middleware.
 * Summarize popular Express database integrations.
 
